@@ -1,0 +1,124 @@
+[0]   Thread 0 (0) Create
+Begin skipping: requested 0 instructions
+
+End skipping: requested 0 skipped 0
+
+[225359284]   Thread 0 (0) Exit
+
+
+======================= Coherence message stat ======================
+
+	ReadRequest                   	728675
+	ExclusiveReply                	794452
+	IntervSharedRequest           	0
+	SpeculativeReply              	0
+	SharedReply                   	0
+	SharedResponse                	0
+	SharingWriteBack              	0
+	SharedAck                     	0
+	SharingTransfer               	0
+	WriteRequest                  	65777
+	Invalidation                  	0
+	InvalidationAck               	0
+	ExclusiveReplyInv             	0
+	IntervExRequest               	0
+	ExclusiveResponse             	0
+	DirtyTransfer                 	0
+	ExclusiveAck                  	0
+	UpgradeRequest                	0
+	ExclusiveReplyInvND           	0
+	WriteBackExAck                	793428
+	WriteBackBusyAck              	0
+	WriteBackRequest              	793428
+	TokenBackRequest              	0
+	NAK                           	0
+	MeshMemPush                   	71242
+	MeshMemAccess                 	87813
+	MeshMemAccessReply            	0
+	NOP                           	0
+
+
+
+
+======================= Network selection stat ======================
+
+	SIZE         : 104828704
+
+
+======================= Message per Network selection stat ======================
+
+	ReadRequest                   	528696
+	ExclusiveReply                	579598
+	IntervSharedRequest           	0
+	SpeculativeReply              	0
+	SharedReply                   	0
+	SharedResponse                	0
+	SharingWriteBack              	0
+	SharedAck                     	0
+	SharingTransfer               	0
+	WriteRequest                  	50902
+	Invalidation                  	0
+	InvalidationAck               	0
+	ExclusiveReplyInv             	0
+	IntervExRequest               	0
+	ExclusiveResponse             	0
+	DirtyTransfer                 	0
+	ExclusiveAck                  	0
+	UpgradeRequest                	0
+	ExclusiveReplyInvND           	0
+	WriteBackExAck                	578830
+	WriteBackBusyAck              	0
+	WriteBackRequest              	578830
+	TokenBackRequest              	0
+	NAK                           	0
+	MeshMemPush                   	71242
+	MeshMemAccess                 	87813
+	MeshMemAccessReply            	87813
+	NOP                           	0
+
+
+	MultipleDestInvalidation : 0
+	TotDestInvalidation : 0
+
+
+1-19 Number of Branches: 1056 With accuracy: 0.427134
+20-199 Number of Branches: 473 With accuracy: 0.468927
+200-1999 Number of Branches: 155 With accuracy: 0.824296
+2000+ Number of Branches: 654 With accuracy: 0.843076
+Overall accuracy: 0.841779
+Hybrid 1-19 Number of Branches: 1056 With accuracy: 0.697665
+Hybrid 20-199 Number of Branches: 473 With accuracy: 0.946257
+Hybrid 200-1999 Number of Branches: 155 With accuracy: 0.97321
+Hybrid 2000+ Number of Branches: 654 With accuracy: 0.951442
+Hybrid Overall accuracy: 0.951545
+1-19 Number of Branches: 0 With accuracy: -nan
+20-199 Number of Branches: 0 With accuracy: -nan
+200-1999 Number of Branches: 0 With accuracy: -nan
+2000+ Number of Branches: 0 With accuracy: -nan
+Overall accuracy: -nan
+Hybrid 1-19 Number of Branches: 0 With accuracy: -nan
+Hybrid 20-199 Number of Branches: 0 With accuracy: -nan
+Hybrid 200-1999 Number of Branches: 0 With accuracy: -nan
+Hybrid 2000+ Number of Branches: 0 With accuracy: -nan
+Hybrid Overall accuracy: -nan
+1-19 Number of Branches: 0 With accuracy: -nan
+20-199 Number of Branches: 0 With accuracy: -nan
+200-1999 Number of Branches: 0 With accuracy: -nan
+2000+ Number of Branches: 0 With accuracy: -nan
+Overall accuracy: -nan
+Hybrid 1-19 Number of Branches: 0 With accuracy: -nan
+Hybrid 20-199 Number of Branches: 0 With accuracy: -nan
+Hybrid 200-1999 Number of Branches: 0 With accuracy: -nan
+Hybrid 2000+ Number of Branches: 0 With accuracy: -nan
+Hybrid Overall accuracy: -nan
+1-19 Number of Branches: 0 With accuracy: -nan
+20-199 Number of Branches: 0 With accuracy: -nan
+200-1999 Number of Branches: 0 With accuracy: -nan
+2000+ Number of Branches: 0 With accuracy: -nan
+Overall accuracy: -nan
+Hybrid 1-19 Number of Branches: 0 With accuracy: -nan
+Hybrid 20-199 Number of Branches: 0 With accuracy: -nan
+Hybrid 200-1999 Number of Branches: 0 With accuracy: -nan
+Hybrid 2000+ Number of Branches: 0 With accuracy: -nan
+Hybrid Overall accuracy: -nan
+
